@@ -1,7 +1,6 @@
 name: example-environment
 
 dependencies:
-  - IPython.display
   - ipywidgets
  
   
