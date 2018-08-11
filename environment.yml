@@ -2,10 +2,10 @@ name: example-environment
 
 dependencies:
   - numpy
-  - toolz
-  - matplotlib
-  - dill
+  - subprocess
+  - matplotlib.pyplot
+  - IPython.display
   - pandas
-  - partd
-  - bokeh
+  - ipywdgets
+  - beakerx
   
