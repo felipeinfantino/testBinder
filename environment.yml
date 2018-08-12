@@ -1,12 +1,6 @@
 name: example-environment
 
 dependencies:
-  - python=3.6
-  - ipywidgets
-  - numpy
-  - matplotlib
-  - pandas
-  - beakerx
   - python=2.7
   - mechanize
   
