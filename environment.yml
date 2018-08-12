@@ -2,5 +2,10 @@ name: example-environment
 
 dependencies:
   - ipywidgets
+  - scipy.io.wavfile
+  - numpy
+  - matplotlib.pyplot
+  - pandas
+  - beakerx
  
   
